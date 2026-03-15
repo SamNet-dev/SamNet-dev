@@ -32,7 +32,7 @@ I run a Telegram channel with **13K+ subscribers** and an active group with **2K
 
 Your support helps me keep building free tools for internet freedom. Every contribution goes directly into development, server costs, and keeping these projects alive.
 
-Need a personal server setup, network troubleshooting, or proxy/VPN installation? I offer one-on-one services on Ko-fi as well.
+Ko-fi also has monthly membership tiers with added perks like priority support, README credits, and project roadmap input. Need a personal server setup, network troubleshooting, or proxy/VPN installation? I offer one-on-one services there as well.
 
 [![Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/samnet)
 
