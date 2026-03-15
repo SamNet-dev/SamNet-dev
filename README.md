@@ -32,6 +32,8 @@ I run a Telegram channel with **13K+ subscribers** and an active group with **2K
 
 Your support helps me keep building free tools for internet freedom. Every contribution goes directly into development, server costs, and keeping these projects alive.
 
+Need a personal server setup, network troubleshooting, or proxy/VPN installation? I offer one-on-one services on Ko-fi as well.
+
 [![Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/samnet)
 
 [![Donate - Crypto & More](https://img.shields.io/badge/Donate-Crypto_%26_More-ff6600?style=for-the-badge&logo=bitcoin&logoColor=white)](https://www.samnet.dev/donate/)
