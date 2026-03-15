@@ -12,15 +12,17 @@ I run a Telegram channel with **13K+ subscribers** and an active group with **2K
 
 ## 🔧 What I Build
 
-- **[MTProxyMax](https://github.com/SamNet-Dev/MTProxyMax)** — The Ultimate Telegram Proxy Manager Built on Rust
-- **[cfray](https://github.com/SamNet-Dev/cfray)** — Cloudflare Config Scanner & Clean IP Finder
-- **[tunnelforge](https://github.com/SamNet-Dev/tunnelforge)** — Ultimate single-file SSH tunnel manager with TUI
-- **[wg-orchestrator](https://github.com/SamNet-Dev/wg-orchestrator)** — Complete WireGuard VPN management
-- **[torware](https://github.com/SamNet-Dev/torware)** — One-click Tor Bridge/Relay setup with live dashboard
-- **[conduit-manager](https://github.com/SamNet-Dev/conduit-manager)** — Psiphon Conduit node management tool
-- **[paqctl](https://github.com/SamNet-Dev/paqctl)** — Unified proxy manager for bypassing firewalls
-- **[findns](https://github.com/SamNet-Dev/findns)** — Fast DNS tunnel resolver scanner
-- **[dnstm-setup](https://github.com/SamNet-Dev/dnstm-setup)** — Interactive DNS-based network setup wizard
+- **[paqctl](https://github.com/SamNet-dev/paqctl)** ⭐ 782 — Unified proxy manager for bypassing firewalls — supports Paqet (KCP/raw socket) and GFW-Knocker (TCP/QUIC) with dual-backend operation
+- **[conduit-manager](https://github.com/SamNet-dev/conduit-manager)** ⭐ 338 — Powerful one-click management tool for Psiphon Conduit nodes with deployment automation and real-time monitoring
+- **[MTProxyMax](https://github.com/SamNet-dev/MTProxyMax)** ⭐ 152 — The ultimate Telegram proxy manager built on Rust with multi-secret support, Telegram bot, monitoring, and auto-recovery
+- **[dnstm-setup](https://github.com/SamNet-dev/dnstm-setup)** ⭐ 135 — Interactive setup wizard for dnstm — automated DNS-based network configuration
+- **[cfray](https://github.com/SamNet-dev/cfray)** ⭐ 106 — Cloudflare config scanner and clean IP finder — test VLESS/VMess configs for latency and speed, scan all ~1.5M Cloudflare IPs
+- **[torware](https://github.com/SamNet-dev/torware)** ⭐ 88 — One-click Tor Bridge/Relay node setup with live TUI dashboard, Snowflake proxy, and Telegram notifications
+- **[findns](https://github.com/SamNet-dev/findns)** ⭐ 82 — Fast DNS tunnel resolver scanner — find working resolvers for dnstt, DoH, and other DNS tunnel tools
+- **[wg-orchestrator](https://github.com/SamNet-dev/wg-orchestrator)** ⭐ 81 — Complete WireGuard VPN management with zero-touch deployment, beautiful TUI and Web UI
+- **[tunnelforge](https://github.com/SamNet-dev/tunnelforge)** ⭐ 81 — The ultimate single-file SSH tunnel manager with full TUI, live dashboard, TLS obfuscation, Telegram bot, and kill switch
+
+> ...and many more in the works — always developing new tools to fight censorship and keep people connected. Stay tuned!
 
 ## 🌐 Links
 
@@ -33,4 +35,3 @@ Your support helps me keep building free tools for internet freedom. Every contr
 [![Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/samnet)
 
 [![Donate - Crypto & More](https://img.shields.io/badge/Donate-Crypto_%26_More-ff6600?style=for-the-badge&logo=bitcoin&logoColor=white)](https://www.samnet.dev/donate/)
-
