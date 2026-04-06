@@ -27,6 +27,19 @@ I run a Telegram channel with **13K+ subscribers** and an active group with **2K
 ## 🌐 Links
 
 - 🔗 Website: [samnet.dev](https://www.samnet.dev)
+- 📚 Guides: [Tech Tutorials & Cheat Sheets](https://www.samnet.dev/learn/)
+- 🛠️ Tools: [70+ Free Online Tools](https://www.samnet.dev/tools/)
+- 🧪 Speed Test: [samnet.dev/speedtest](https://www.samnet.dev/speedtest/)
+
+### 📖 Popular Guides
+- [MTProto Proxy Setup (MTProxyMax)](https://www.samnet.dev/learn/networking/mtproto-proxy-telegram/)
+- [3X-UI Panel Setup — Every Protocol](https://www.samnet.dev/learn/networking/xui-setup/)
+- [WireGuard VPN Setup Guide](https://www.samnet.dev/learn/cheatsheets/wireguard-setup/)
+- [Xray Routing — Block Countries & Ports](https://www.samnet.dev/learn/networking/xray-routing/)
+- [SOCKS5 Proxy Setup](https://www.samnet.dev/learn/networking/socks5-proxy-setup/)
+- [Cloudflare Setup Guide](https://www.samnet.dev/learn/networking/cloudflare-setup/)
+- [Docker Cheat Sheet](https://www.samnet.dev/learn/cheatsheets/docker-cheat-sheet/)
+- [Nginx Cheat Sheet](https://www.samnet.dev/learn/cheatsheets/nginx-cheat-sheet/)
 
 ## 💜 Support My Work
 
