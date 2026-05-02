@@ -1,8 +1,8 @@
 # Hey, I'm Saman 👋
 
-**Open-source developer building networking, privacy, and anti-censorship tools — helping people in Iran and beyond access the free internet.**
+**Open-source developer building networking, privacy, and anti-censorship tools — helping people around the globe access the free internet.**
 
-Internet censorship in Iran is among the most aggressive in the world. I build open-source tools that help millions of Iranians stay connected — bypassing deep packet inspection, protocol filtering, and network shutdowns. Every tool I create is free, open-source, and designed to be deployed by anyone, anywhere.
+Internet censorship in Iran / Russia and China are among the most aggressive in the world. I build open-source tools that help millions of Iranians stay connected — bypassing deep packet inspection, protocol filtering, and network shutdowns. Every tool I create is free, open-source, and designed to be deployed by anyone, anywhere.
 
 ## 📡 Telegram Community
 
